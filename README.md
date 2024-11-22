@@ -55,7 +55,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tharak23/CanteenPro.git
-   cd canteen-owner-dashboard
+   cd project
 
 ### **Project Structure**
 ```bash
@@ -87,6 +87,7 @@ CANTEENPRO/
 
 -----
 
-###  **Contact**
+Contact ;
+
 For queries or support, contact:
 tharaknagaveti@gmail.com
